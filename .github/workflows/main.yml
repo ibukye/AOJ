@@ -1,0 +1,7 @@
+name: AOJ Python Chechker
+
+on: 
+  push:
+    paths:
+
+jobs:
